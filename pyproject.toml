@@ -6,7 +6,7 @@ authors = ["mori-dev <mori.dev.asdf@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "3.11.8"
 
 
 [build-system]
